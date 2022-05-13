@@ -1,0 +1,3 @@
+# Contract
+
+Most things that happen on-chain are powered by smart contracts. It would, ideally, make sure that every action is going according to plan. For example, staking or swapping are actions that would require “using”(writing) smart contracts. OpenSwap happens to be an OpenSourced platform. This means that our end-goal is to have all of our deployed smart contracts are available on Github and BSC scan. Right now, our core contracts can be viewed on github with this link: **** [**https://github.com/openswapdex/openswap-core/tree/master/contracts**](https://github.com/openswapdex/openswap-core/tree/master/contracts)****
