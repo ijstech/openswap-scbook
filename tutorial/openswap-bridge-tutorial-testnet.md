@@ -27,7 +27,7 @@ The tesnet rollout will support Kovan, BSC Testnet and Avalanche Fuji C-Chain. B
 
 | **ETH**  | <p><a href="https://faucets.chain.link/https://gitter.im/kovan-testnet/faucet">https://faucets.chain.link/<br>https://gitter.im/kovan-testnet/faucet</a></p> |   |   |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
-| **AVAX** | [https://faucet.avax-test.network/](https://faucet.avax-test.network)                                                                                         |   |   |
+| **AVAX** | [https://faucet.avax-test.network/](https://faucet.avax-test.network/)                                                                                        |   |   |
 | **BNB**  | [https://testnet.binance.org/faucet-smart](https://testnet.binance.org/faucet-smart)                                                                          |   |   |
 
 _We recommend getting some BNB_

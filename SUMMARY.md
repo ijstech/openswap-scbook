@@ -8,11 +8,11 @@
 
 * [Liquidity Queue](technologies/liquidity-queue.md)
 * [Hybrid Smart Router](technologies/hybrid-smart-router.md)
-* [Open Interchain Protocol](technologies/open-interchain-protocol/README.md)
-  * [Bridge Trolls](technologies/open-interchain-protocol/bridge-trolls.md)
-  * [Dynamic Multisig Withdrawal](technologies/open-interchain-protocol/dynamic-multisig-withdrawal.md)
-  * [Primary Chain](technologies/open-interchain-protocol/primary-chain.md)
-  * [Bridge Troll Selection Algorithm](technologies/open-interchain-protocol/bridge-troll-selection-algorithm.md)
+* [OpenSwap Bridge](technologies/openswap-bridge/README.md)
+  * [Bridge Trolls](technologies/openswap-bridge/bridge-trolls.md)
+  * [Dynamic Multisig Withdrawal](technologies/openswap-bridge/dynamic-multisig-withdrawal.md)
+  * [Primary Chain](technologies/openswap-bridge/primary-chain.md)
+  * [Bridge Troll Selection Algorithm](technologies/openswap-bridge/bridge-troll-selection-algorithm.md)
 
 ## 🥐 Staking & Farming
 

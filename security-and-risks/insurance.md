@@ -6,4 +6,4 @@ The current coverage includes OpenSwap’s contract vulnerabilities for Liquidit
 
 As OpenSwap expands onto other chains and releases more features, we would continue looking into insurance options so as to safeguard our users’ funds.
 
-For more details, please refer to Tidal Finance’s website, [https://tidal.finance/](https://tidal.finance).
+For more details, please refer to Tidal Finance’s website, [https://tidal.finance/](https://tidal.finance/).

@@ -10,11 +10,8 @@ OSWAP token is the governance token of the OpenSwap ecosystem. The core purposes
 
 Listed below are some of OSWAP token's generic utilities surrounding core technologies and ecosystem offerings. We will continue to update this section as the project develops.
 
-#### **Open Interchain Protocol**
+#### **OpenSwap Bridge**
 
-*   Crosschain Bridge Fees
-
-    **U**pon feature release, users who utilize Open Interchain Protocol as their crosschain solution will need OSWAP tokens as transaction fees for the crosschain activities.
 *   Node Validators
 
     Bridge Troll NFT holders who wishes to become node validators (Bridge Trolls) for Open Interchain Protocol will need to stake OSWAP token as bond.
@@ -53,9 +50,5 @@ OpenSwap has designed its tokenomics to support a sustainable long-term project 
 * Core team allocations and related tokens are subjected to long-term vesting periods to ensure community member confidence
 
 #### OS Pro
-
-Project Owners will need OSWAP tokens for access to OS Pro offerings upon feature release. Further information on exact OSWAP token utility for this category will be elaborated closer to feature release date.
-
-
 
 OSWAP token is an ERC20 token with a 1B hard-capped total token supply. OSWAP tokens was bridged to BSC during the initial rollout, and will continuously be bridged to other chains as the OpenSwap project matures and develops.
