@@ -67,4 +67,3 @@
 ## 📙 OpenSwap Blog Banner | Guide
 
 * [Brand Guidelines](openswap-blog-banner-or-guide/brand-guidelines.md)
-* [Demo](demo.md)
