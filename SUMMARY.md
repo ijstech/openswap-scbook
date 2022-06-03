@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📌 Introduction](README.md)
-* [🏹 Roadmap ](vision-and-roadmap.md)
+* [🏹 Roadmap](vision-and-roadmap.md)
 * [💰 Tokenomics](tokenomics.md)
 
 ## 💻 Technologies
@@ -42,6 +42,8 @@
 
 * [Contract](contracts/contract.md)
 * [Framework](contracts/framework.md)
+  * [BSC Framework](contracts/framework/bsc-framework.md)
+  * [AVAX Framework](contracts/framework/avax-framework.md)
 * [Bug Bounty](contracts/bug-bounty.md)
 
 ## 🔐 Security & Risks
