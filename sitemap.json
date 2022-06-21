@@ -1,0 +1,212 @@
+[
+  {
+    "loc": "https://docs.openswap.xyz/",
+    "priority": "1",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/vision-and-roadmap",
+    "priority": "1",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/tokenomics",
+    "priority": "1",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/technologies/liquidity-queue",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/technologies/hybrid-smart-router",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/bridge-trolls",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/dynamic-multisig-withdrawal",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/primary-chain",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/bridge-troll-selection-algorithm",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/staking-and-farming/staking-and-farming-program",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/staking-and-farming/nft-loyalty-club",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/os-pro/what-is-os-pro",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/os-pro/os-pro-roadmap",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/os-pro/current-liquidity-landscape",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/os-pro/os-pro-advantages-for-token-projects",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/os-pro/os-pro-advantages-for-defi-users",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/os-pro/os-pro-offerings/",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/os-pro/os-pro-offerings/on-chain-private-sales",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/os-pro/os-pro-offerings/liquidity-as-a-service",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/os-pro/os-pro-offerings/bond-marketplace",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/os-pro/os-pro-offerings/nft-loyalty-club",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/os-pro/os-pro-offerings/staking-and-farming",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/governance/governance-model",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/governance/proposals-and-voting",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/contracts/contract",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/contracts/framework",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/contracts/framework/bsc-framework",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/contracts/framework/avax-framework",
+    "priority": "0.7",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/contracts/bug-bounty",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/security-and-risks/risks",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/security-and-risks/audit-report",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/security-and-risks/insurance",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/faq/open-interchain-protocol",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/faq/liquidity-queue",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/faq/hybrid-smart-router",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/faq/staking-and-farming",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/faq/nft-loyalty-program",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/faq/os-pro",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/tutorial/openswap-bridge-tutorial-testnet",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/tutorial/openswap-project-token-bridging-and-bridge-vault-tutorial-testnet",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/openswap-blog-banner-or-guide/brand-guidelines",
+    "priority": "0.84",
+    "lastmod": "2022-06-21"
+  }
+]
