@@ -44,7 +44,6 @@
 * [Framework](contracts/framework.md)
   * [BSC Framework](contracts/framework/bsc-framework.md)
   * [AVAX Framework](contracts/framework/avax-framework.md)
-* [Bug Bounty](contracts/bug-bounty.md)
 
 ## 🔐 Security & Risks
 
