@@ -1,0 +1,10 @@
+{
+  "name": "@scbook/main",
+  "version": "0.1.0",
+  "main": "{root}/index.js",
+  "entrypoint": ".",
+  "dependencies": {
+    "typescript": "{root}/lib/compiler/typescript/index.js",
+    "@ijstech/compiler": "{root}/lib/compiler/index.js"
+  }
+}
