@@ -62,6 +62,7 @@
 
 ## 📂 Tutorial
 
+* [OpenSwap Stake Green Troll](tutorial/openswap-general-troll-staking.md)
 * [OpenSwap Bridge Tutorial (testnet)](tutorial/openswap-bridge-tutorial-testnet.md)
 * [OpenSwap Project Token Bridging & Bridge Vault Tutorial (testnet)](tutorial/openswap-project-token-bridging-and-bridge-vault-tutorial-testnet.md)
 
