@@ -1,18 +1,13 @@
 {
     "name": "@scom/scbook",
     "version": "0.1.0",
-    "dependencies": {},    
-    "scripts": {        
-        "deploy": "node ./dist/tools/deploy",
-        "serve": "node ./dist/tools/serve"
+    "scripts": {
+        "build": "rm -rf libs && rm -rf modules && rm -f index.html && rm -f scconfig.json && cd node_modules/@scom/scom-scbook && npm i && npm run build && cd ../../../ && cp -rf node_modules/@scom/scom-scbook/dist/* .",
+        "serve": "npx @ijstech/cli serve 8080 .",
+        "start": "npm run build && npm run serve"
     },
     "devDependencies": {
-        "@ijstech/components": "0.1.8",
-        "@ijstech/node": "https://github.com/ijstech/node",
-        "@types/node": "14.17",
-        "esbuild": "^0.13.4",
-        "ts-node": "10.1.0",
-        "tsconfig-paths": "3.10.1",
-        "typescript": "4.3.5"
+        "@ijstech/cli": "^0.1.28",
+        "@scom/scom-scbook": "^0.1.0"
     }
 }
