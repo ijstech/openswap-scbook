@@ -27,31 +27,51 @@
 <url>
                 <loc>https://docs.openswap.xyz/technologies/openswap-bridge/</loc>
                 <priority>0.7</priority>
-                <lastmod>2022-06-21</lastmod>
+                <lastmod>2023-03-13</lastmod>
                 </url>
 <url>
                 <loc>https://docs.openswap.xyz/technologies/openswap-bridge/bridge-trolls</loc>
                 <priority>0.7</priority>
-                <lastmod>2022-06-21</lastmod>
+                <lastmod>2023-03-13</lastmod>
                 </url>
 <url>
                 <loc>https://docs.openswap.xyz/technologies/openswap-bridge/dynamic-multisig-withdrawal</loc>
                 <priority>0.7</priority>
-                <lastmod>2022-06-21</lastmod>
+                <lastmod>2023-03-13</lastmod>
                 </url>
 <url>
-                <loc>https://docs.openswap.xyz/technologies/openswap-bridge/primary-chain</loc>
+                <loc>https://docs.openswap.xyz/technologies/openswap-bridge/single-asset-vaults</loc>
                 <priority>0.7</priority>
-                <lastmod>2022-06-21</lastmod>
+                <lastmod>2023-03-13</lastmod>
                 </url>
 <url>
                 <loc>https://docs.openswap.xyz/technologies/openswap-bridge/bridge-troll-selection-algorithm</loc>
                 <priority>0.7</priority>
-                <lastmod>2022-06-21</lastmod>
+                <lastmod>2023-03-13</lastmod>
+                </url>
+<url>
+                <loc>https://docs.openswap.xyz/technologies/openswap-bridge/contracts</loc>
+                <priority>0.7</priority>
+                <lastmod>2023-03-13</lastmod>
+                </url>
+<url>
+                <loc>https://docs.openswap.xyz/technologies/openswap-bridge/fees</loc>
+                <priority>0.7</priority>
+                <lastmod>2023-03-13</lastmod>
+                </url>
+<url>
+                <loc>https://docs.openswap.xyz/technologies/openswap-bridge/contract-addresses</loc>
+                <priority>07</priority>
+                <lastmod>2023-03-13</lastmod>
+                </url>
+<url>
+                <loc>https://docs.openswap.xyz/technologies/openswap-bridge/troll-addresses</loc>
+                <priority>07</priority>
+                <lastmod>2023-03-13</lastmod>
                 </url>
 <url>
                 <loc>https://docs.openswap.xyz/staking-and-farming/staking-and-farming-program</loc>
-                <priority>0.84</priority>
+                <priority>0.7</priority>
                 <lastmod>2022-06-21</lastmod>
                 </url>
 <url>
@@ -59,61 +79,6 @@
                 <priority>0.84</priority>
                 <lastmod>2022-06-21</lastmod>
                 </url>
-<!-- <url>
-                <loc>https://docs.openswap.xyz/os-pro/what-is-os-pro</loc>
-                <priority>0.84</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url>
-<url>
-                <loc>https://docs.openswap.xyz/os-pro/os-pro-roadmap</loc>
-                <priority>0.84</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url>
-<url>
-                <loc>https://docs.openswap.xyz/os-pro/current-liquidity-landscape</loc>
-                <priority>0.84</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url>
-<url>
-                <loc>https://docs.openswap.xyz/os-pro/os-pro-advantages-for-token-projects</loc>
-                <priority>0.84</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url>
-<url>
-                <loc>https://docs.openswap.xyz/os-pro/os-pro-advantages-for-defi-users</loc>
-                <priority>0.84</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url>
-<url>
-                <loc>https://docs.openswap.xyz/os-pro/os-pro-offerings/</loc>
-                <priority>0.7</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url>
-<url>
-                <loc>https://docs.openswap.xyz/os-pro/os-pro-offerings/on-chain-private-sales</loc>
-                <priority>0.7</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url>
-<url>
-                <loc>https://docs.openswap.xyz/os-pro/os-pro-offerings/liquidity-as-a-service</loc>
-                <priority>0.7</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url>
-<url>
-                <loc>https://docs.openswap.xyz/os-pro/os-pro-offerings/bond-marketplace</loc>
-                <priority>0.7</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url>
-<url>
-                <loc>https://docs.openswap.xyz/os-pro/os-pro-offerings/nft-loyalty-club</loc>
-                <priority>0.7</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url>
-<url>
-                <loc>https://docs.openswap.xyz/os-pro/os-pro-offerings/staking-and-farming</loc>
-                <priority>0.7</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url> -->
 <url>
                 <loc>https://docs.openswap.xyz/governance/governance-model</loc>
                 <priority>0.84</priority>
@@ -189,25 +154,10 @@
                 <priority>0.84</priority>
                 <lastmod>2022-06-21</lastmod>
                 </url>
-<!-- <url>
-                <loc>https://docs.openswap.xyz/faq/os-pro</loc>
-                <priority>0.84</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url> -->
 <url>
                 <loc>https://docs.openswap.xyz/tutorial/openswap-general-troll-staking</loc>
                 <priority>0.84</priority>
                 <lastmod>2023-02-23</lastmod>
-                </url>
-<url>
-                <loc>https://docs.openswap.xyz/tutorial/openswap-bridge-tutorial-testnet</loc>
-                <priority>0.84</priority>
-                <lastmod>2022-06-21</lastmod>
-                </url>
-<url>
-                <loc>https://docs.openswap.xyz/tutorial/openswap-project-token-bridging-and-bridge-vault-tutorial-testnet</loc>
-                <priority>0.84</priority>
-                <lastmod>2022-06-21</lastmod>
                 </url>
 <url>
                 <loc>https://docs.openswap.xyz/openswap-blog-banner-or-guide/brand-guidelines</loc>
