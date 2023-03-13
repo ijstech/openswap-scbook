@@ -27,27 +27,47 @@
   {
     "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/",
     "priority": "0.7",
-    "lastmod": "2022-06-21"
+    "lastmod": "2023-03-12"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/single-asset-vaults",
+    "priority": "0.7",
+    "lastmod": "2023-03-12"
   },
   {
     "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/bridge-trolls",
     "priority": "0.7",
-    "lastmod": "2022-06-21"
+    "lastmod": "2023-03-12"
   },
   {
     "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/dynamic-multisig-withdrawal",
     "priority": "0.7",
-    "lastmod": "2022-06-21"
-  },
-  {
-    "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/primary-chain",
-    "priority": "0.7",
-    "lastmod": "2022-06-21"
+    "lastmod": "2023-03-12"
   },
   {
     "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/bridge-troll-selection-algorithm",
     "priority": "0.7",
     "lastmod": "2022-06-21"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/contracts",
+    "priority": "0.7",
+    "lastmod": "2023-03-12"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/fees",
+    "priority": "0.7",
+    "lastmod": "2023-03-12"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/contract-addresses",
+    "priority": "0.7",
+    "lastmod": "2023-03-12"
+  },
+  {
+    "loc": "https://docs.openswap.xyz/technologies/openswap-bridge/troll-addresses",
+    "priority": "0.7",
+    "lastmod": "2023-03-12"
   },
   {
     "loc": "https://docs.openswap.xyz/staking-and-farming/staking-and-farming-program",

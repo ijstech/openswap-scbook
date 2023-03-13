@@ -9,10 +9,15 @@
 * [Liquidity Queue](technologies/liquidity-queue.md)
 * [Hybrid Smart Router](technologies/hybrid-smart-router.md)
 * [OpenSwap Bridge](technologies/openswap-bridge/README.md)
+  * [How Does Open Interchain Protocol Work](technologies/openswap-bridge/open-interchain-protocol.md)
+  * [Single Asset Vaults](technologies/openswap-bridge/single-asset-vaults.md)
   * [Bridge Trolls](technologies/openswap-bridge/bridge-trolls.md)
-  * [Dynamic Multisig Withdrawal](technologies/openswap-bridge/dynamic-multisig-withdrawal.md)
-  * [Primary Chain](technologies/openswap-bridge/primary-chain.md)
+  * [Dynamic MultiSig Withdrawal](technologies/openswap-bridge/dynamic-multisig-withdrawal.md)
   * [Bridge Troll Selection Algorithm](technologies/openswap-bridge/bridge-troll-selection-algorithm.md)
+  * [The Interchain Contract Structure](technologies/openswap-bridge/contracts.md)
+  * [The Transaction Fee Model](technologies/openswap-bridge/fees.md)
+  * [Major Smart Contracts](technologies/openswap-bridge/contract-addresses.md)
+  * [Troll Addresses](technologies/openswap-bridge/troll-addresses.md)
 
 ## 🥐 Staking & Farming
 
@@ -63,8 +68,8 @@
 ## 📂 Tutorial
 
 * [OpenSwap Stake Green Troll](tutorial/openswap-general-troll-staking.md)
-* [OpenSwap Bridge Tutorial (testnet)](tutorial/openswap-bridge-tutorial-testnet.md)
-* [OpenSwap Project Token Bridging & Bridge Vault Tutorial (testnet)](tutorial/openswap-project-token-bridging-and-bridge-vault-tutorial-testnet.md)
+<!-- * [OpenSwap Bridge Tutorial (testnet)](tutorial/openswap-bridge-tutorial-testnet.md)
+* [OpenSwap Project Token Bridging & Bridge Vault Tutorial (testnet)](tutorial/openswap-project-token-bridging-and-bridge-vault-tutorial-testnet.md) -->
 
 ## 📙 OpenSwap Blog Banner | Guide
 
