@@ -24,7 +24,7 @@
 * [Staking & Farming Program](staking-and-farming/staking-and-farming-program.md)
 * [NFT Loyalty Club](staking-and-farming/nft-loyalty-club.md)
 
-## 🚀 OS Pro
+<!-- ## 🚀 OS Pro
 
 * [What is OS Pro?](os-pro/what-is-os-pro.md)
 * [OS Pro Roadmap](os-pro/os-pro-roadmap.md)
@@ -36,7 +36,7 @@
   * [Liquidity as a Service](os-pro/os-pro-offerings/liquidity-as-a-service.md)
   * [Bond Marketplace](os-pro/os-pro-offerings/bond-marketplace.md)
   * [NFT Loyalty Club](os-pro/os-pro-offerings/nft-loyalty-club.md)
-  * [Staking & Farming](os-pro/os-pro-offerings/staking-and-farming.md)
+  * [Staking & Farming](os-pro/os-pro-offerings/staking-and-farming.md) -->
 
 ## ⚖ Governance
 
@@ -63,7 +63,7 @@
 * [Hybrid Smart Router](faq/hybrid-smart-router.md)
 * [Staking and Farming](faq/staking-and-farming.md)
 * [NFT Loyalty Program](faq/nft-loyalty-program.md)
-* [OS Pro](faq/os-pro.md)
+<!-- * [OS Pro](faq/os-pro.md) -->
 
 ## 📂 Tutorial
 

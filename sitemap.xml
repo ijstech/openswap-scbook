@@ -59,7 +59,7 @@
                 <priority>0.84</priority>
                 <lastmod>2022-06-21</lastmod>
                 </url>
-<url>
+<!-- <url>
                 <loc>https://docs.openswap.xyz/os-pro/what-is-os-pro</loc>
                 <priority>0.84</priority>
                 <lastmod>2022-06-21</lastmod>
@@ -113,7 +113,7 @@
                 <loc>https://docs.openswap.xyz/os-pro/os-pro-offerings/staking-and-farming</loc>
                 <priority>0.7</priority>
                 <lastmod>2022-06-21</lastmod>
-                </url>
+                </url> -->
 <url>
                 <loc>https://docs.openswap.xyz/governance/governance-model</loc>
                 <priority>0.84</priority>
@@ -189,11 +189,11 @@
                 <priority>0.84</priority>
                 <lastmod>2022-06-21</lastmod>
                 </url>
-<url>
+<!-- <url>
                 <loc>https://docs.openswap.xyz/faq/os-pro</loc>
                 <priority>0.84</priority>
                 <lastmod>2022-06-21</lastmod>
-                </url>
+                </url> -->
 <url>
                 <loc>https://docs.openswap.xyz/tutorial/openswap-general-troll-staking</loc>
                 <priority>0.84</priority>
