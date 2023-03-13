@@ -1,33 +1,27 @@
 # Open Interchain Protocol
+## OpenSwap Bridge
+### *Welcome to the Open Interchain Protocol*
 
-### Crosschain Environment
+The Open Interchain Protocol is the infrastructure powering the OpenSwap bridge.
 
-The goal of crosschain bridging and swapping is one of the longest ongoing topics of interest in the DeFi space. As we progress into the multichain landscape, the enablement of changing assets across different chains has become an important fundamental necessity. In the current crosschain environment, the most typical approaches that are being utilized are:
+The protocol consists of a network of validators called Green Bridge Trolls and signers called Mean Bridge Trolls. These bridge trolls work together to reach a consensus to consummate a bridge transaction.
 
-Lock and Mint Synthetics - A method used by the likes of Binance Bridge and Multichain (Anyswap), where native tokens are given to a centralized custodian who in turn mints a synthetic version of the token on a target blockchain. The decentralized version requires usage of decentralized custodians that are properly incentivized to behave appropriately. Majority of crosschain bridges are of the Lock and Mint variety, the difference mostly lies on how true decentralization is actually achieved, and also the bridge operators’ approach on key security.
+The goal of the Open Interchain Protocol is to provide a trustless bridge for native assets utilizing a “lock and release” mechanism between two blockchains
 
-Crosschain Liquidity Pair Pool - A method experimented and led by the likes of Throchain, whereby liquidity providers stake paris consisting of a native token with Thorchain’s RUNE token into pools, and Throchain routes swaps leveraging the common RUNE token to facilitate crosschain swaps. With this approach, swappers are able to receive native tokens on the target chain instead of synthetics.
+### **The OpenSwap Bridge Today**
 
-While these conventional approaches are moderately acceptable in the current nascent stage market, there are still many critical issues that need to be addressed, such as slow in speed, expensive costs, high complexity, and the proliferation of synthetics of the same underlying assets.
+We are currently in the pilot phase to facilitate bridging of $OSWAP between BNB Smart Chain and Avalanche C-Chain. The Open Interchain Protocol will launch with 3 Mean Bridge Trolls and 5 Green Bridge trolls. This phase consists of three events:
 
-### **How Does Open Interchain Protocol Work**
+1. Bridge Vault Staking - Single asset $OSWAP bridge vaults launched on both chains for HODLers to stake (Live) 
+2. Green Bridge Troll Staking - 5 Green Bridge Trolls launched and available Troll NFT HODLers to stake (Live)
+3. Pilot Go-Live (Pending)
 
-Open Interchain Protocol is introduced as a solution that offers more efficient crosschain swapping of chain-native assets through the usage of single asset vaults and a basket of decentralized mechanisms.
+The current release provides the DApp for the community to stake into the bridge vaults, mint NFT Trolls, and stake NFT Trolls on Green Bridge Trolls to activate them.
 
-With the incorporation of other OpenSwap technologies like liquidity queue and hybrid smart router, Open Interchain Protocol will form a fully transparent and capital efficient end-to-end crosschain swapping solution.
+Final preparations for the Mean Bridge Trolls are in progress by our trusted partners and the Pilot Go-Live is expected by the end of March 2023.
 
-![](../../.gitbook/assets/OpenInterchain.jpg)
+### **The OpenSwap Bridge Tomorrow**
 
-Designed to be decentralized and easily extendable, Open Interchain Protocol along with all the key components can be quickly moved to additional EVM compatible chains through a simple deployment of the set of contracts onto the new chain. Initially, the protocol will support Binance Smart Chain and Ethereum, and will soon be followed by popular and trending EVM compatible chains such as Fantom, Polygon, and Avalanche.
+The Open Interchain Protocol will work with any EVM-compatible chain and it is expected that the bridge will go wherever the $OSWAP goes next. Potential blockchains in consideration are Ethereum, Polygon, Moonbeam, Arbitrum, and Optimism with the ultimate decision being dictated by the community, bridge founders, and $OSWAP holders. 
 
-![](../../.gitbook/assets/OpenInterchainConcept.jpg)
-
-The key concept that makes Open Interchain Protocol different and better than conventional crosschain bridging models is the use of Single Asset Vaults. These are vault smart contracts that exist on blockchains that are supported by OpenSwap. They enable liquidity providers the opportunity to put their digital assets to work without having to worry about impermanent loss. These vaults will be considered as 1:1 representatives of the bridge tokens on the different chains.
-
-![](../../.gitbook/assets/OpenInterchainFlow.jpg)
-
-Enabling Open Interchain Protocol to release a corresponding amount of the target chain’s version of the token once the source chain’s tokens are confirmed to be successfully deposited.
-
-![](../../.gitbook/assets/OpenInterchainWork.jpg)
-
-A key feature of these smart contracts is the dynamic multisig feature that governs the release of funds. Funds can only be transferred out of a vault if it is signed by a multiplicity of bridge trolls. A set of rules governs how transactions are signed based on the size of a transaction. Essentially, the number of signers required will be proportional to the swap transaction size ensuring that bonded staked sufficiently cover the swap transactions so that malicious behavior can be mitigated. During the initial feature rollout, it is anticipated that the majority of the bridge vaults will be for stablecoins such as USDT, DAI, BUSD, and other native chain tokens such as BNB and ETH.
+With the ultimate goal of providing a trustless bridge, the OpenSwap team will continuously work towards providing a client package for you to run your own bridge troll to participate in the Open Interchain Protocol. As the network grows, the Open Interchain Protocol will evolve with it to include a governance model with $OSWAP to add token support for a particular chain.
