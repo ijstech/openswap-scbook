@@ -1,6 +1,5 @@
 # Open Interchain Protocol
-## OpenSwap Bridge
-### *Welcome to the Open Interchain Protocol*
+### **Welcome to the Open Interchain Protocol**
 
 The Open Interchain Protocol is the infrastructure powering the OpenSwap bridge.
 
