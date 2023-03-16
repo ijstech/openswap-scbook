@@ -4,13 +4,12 @@ At its core, Open Interchain Protocol consists of a network of Bridge Trolls wor
 There are two types of Bridge Trolls in the Open Interchain ecosystem:
 
 ![Green Troll](../../.gitbook/assets/greenTroll.jpg) 
+![Mean Troll](../../.gitbook/assets/redTroll.jpg)
 
 #### Green Bridge Troll
 
 Anyone who holds an OpenSwap Bridge Troll NFT can stake the NFT to the Green Troll. The NFTs activate the Green Bridge Troll as a validator in the ecosystem and in return, stakers receive a portion of the fees for each transaction validated by the Green Bridge Troll. By signing a bridge transaction, the Green Bridge Troll is indicating that it has validated the transaction. The number of Bridge Trolls involved in a particular transaction is dictated by Bridge Governance and is expected to increase as the network grows to maintain decentralization and strengthen the security of the network. 
 Eventually, the OpenSwap Bridge Troll software will be available for anyone to install to become a Green Bridge Troll operator. However, an OpenSwap Bridge Troll NFT stake is required to activate it to participate in bridge activities.
-
-![Mean Troll](../../.gitbook/assets/redTroll.jpg)
 
 #### Mean Bridge Troll
 
