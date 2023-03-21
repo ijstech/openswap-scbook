@@ -3,6 +3,7 @@
 At its core, Open Interchain Protocol consists of a network of Bridge Trolls working together to facilitate bridging functions. Bridge Trolls serve a critical role as node validators who perform the tasks of monitoring the protocol for transaction requests, verifying, and signing transactions to carry out the withdrawal of funds on different blockchains. In order to ensure that Bridge Trolls behave appropriately, they need to stake a bond in the form of the native OSWAP tokens which are put at risk if they carry out any inappropriate actions. In return, Bridge Trolls will be compensated with a portion of the bridge fees (transaction fees) for carrying out the bridging activities.
 There are two types of Bridge Trolls in the Open Interchain ecosystem:
 
+
 ### Green Bridge Troll
 
 ![Green Bridge Troll](../../.gitbook/assets/greenTroll.jpg) 
@@ -39,3 +40,4 @@ Mean Bridge Trolls have additional requirements including a bond that is staked 
 |     8     | 0x7e1157b79d7edeba9dbcc203f6ac55f70bba4824 | 0xEC5c59D13F6fa57fDa2A658aD122AAa3CCe06314 |
 
 </font>
+
