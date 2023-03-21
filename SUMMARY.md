@@ -17,7 +17,7 @@
   * [The Interchain Contract Structure](technologies/openswap-bridge/contracts.md)
   * [The Transaction Fee Model](technologies/openswap-bridge/fees.md)
   * [Major Smart Contracts](technologies/openswap-bridge/contract-addresses.md)
-  * [Troll Addresses](technologies/openswap-bridge/troll-addresses.md)
+
 
 ## 🥐 Staking & Farming
 
