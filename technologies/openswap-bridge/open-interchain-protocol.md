@@ -1,5 +1,7 @@
 # How Does Open Interchain Protocol Work
 
+![](.scbook/assets/technologies/openswap-bridge/open-interchain-protocol.jpeg)
+
 1. Liquidity providers populate the bridge vaults on supported chains to receive a portion of bridge fees.
 
 2. The user can then create an order on the source chain with the OpenSwap Dapp.  At this stage, the order is written on-chain to the order contract.
