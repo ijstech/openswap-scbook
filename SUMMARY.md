@@ -52,6 +52,7 @@
 ## 📂 Tutorial
 
 * [OpenSwap Stake Green Troll](tutorial/openswap-general-troll-staking.md)
+* [OpenSwap Cross Chain Bridging](tutorial/openswap-cross-chain-bridge.md)
 
 ## 📙 OpenSwap Blog Banner | Guide
 
